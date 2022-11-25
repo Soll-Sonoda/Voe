@@ -1,5 +1,6 @@
 
-import Teste from './pages/Teste';
+import ServCadastro from './pages/CadastroServices';
+
 function App() {
   return (
 
@@ -11,7 +12,7 @@ function App() {
 
       </div>
 
-      <Teste/>
+      <ServCadastro/>
 
       
       

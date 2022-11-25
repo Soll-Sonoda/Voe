@@ -1,11 +1,11 @@
-import styles from './Teste.module.css';
+import styles from './ServCadas.module.css';
 import Limpa from './Limpa.png';
 import Logo from './Logo.png';
-function Teste () {
+function ServCadastro () {
     return (
         <div className= {styles.divG}>
 
-            <div className={styles.divHeader}> <img className={styles.Voe} src={Logo}></img></div>
+            <div className={styles.divHeader}> <img className={styles.Voe} src={Logo} alt= "logo do projeto voe"></img></div>
 
             <div className={styles.Blue}> 
             <p className={styles.NomePP}> Perfil Profissional - Serviço</p>
@@ -22,7 +22,7 @@ function Teste () {
                 <p className={styles.CPF}> CPF </p>
                 <p className={styles.ConfSenha}> Confirme a senha </p>
 
-                <img className={styles.Clean} src={Limpa}></img>
+                <img className={styles.Clean} src={Limpa} alt="mulher trabalhando"></img>
 
                 <form>
             <div>
@@ -80,4 +80,4 @@ function Teste () {
     )
 }
 
-export default Teste;
+export default ServCadastro;
