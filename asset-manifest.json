@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Voe/static/css/main.073c9b0a.css",
-    "main.js": "/Voe/static/js/main.6971bcde.js",
+    "main.css": "/Voe/static/css/main.644abe91.css",
+    "main.js": "/Voe/static/js/main.1db39099.js",
     "static/js/787.630237a3.chunk.js": "/Voe/static/js/787.630237a3.chunk.js",
-    "static/media/logo.svg": "/Voe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Limpa.png": "/Voe/static/media/Limpa.a8a9e2d4b4c3c58ada92.png",
+    "static/media/Logo.png": "/Voe/static/media/Logo.cfe9a3809d64bf191fe4.png",
     "index.html": "/Voe/index.html",
-    "main.073c9b0a.css.map": "/Voe/static/css/main.073c9b0a.css.map",
-    "main.6971bcde.js.map": "/Voe/static/js/main.6971bcde.js.map",
+    "main.644abe91.css.map": "/Voe/static/css/main.644abe91.css.map",
+    "main.1db39099.js.map": "/Voe/static/js/main.1db39099.js.map",
     "787.630237a3.chunk.js.map": "/Voe/static/js/787.630237a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6971bcde.js"
+    "static/css/main.644abe91.css",
+    "static/js/main.1db39099.js"
   ]
 }
