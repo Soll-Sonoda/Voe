@@ -1,0 +1,802 @@
+.ServImg {
+    width: 100%;
+    size: 100%;
+    padding-top: 40px;
+}
+
+.body{
+    max-width: 100%;
+    max-height: 1200vh;
+    background-color: #FFFFFF;
+  }
+
+.divServices{
+    width: 100%;
+    display: block;
+    height: 1600px;
+    
+}
+
+.h2Services {
+    position: absolute;
+    width: 30%;
+    height: 20%;
+    top: 780px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 33px;
+    line-height: 76px;
+    left: 97px;
+    
+    color: #11234D;
+
+}
+
+.card1 {
+    left: 100px;
+    top: 1000px;
+    width: 26%;
+    height: 35%;
+    display: flex;
+    position: absolute;
+    background: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+}
+
+.card1 h1 {
+    position: absolute;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+    height: 50%
+
+}
+
+.card1 p {
+    position: absolute;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    top: 60px;
+    left: 20px;
+    width: 120px;
+    height: 50%;
+}
+
+.card1 h2 {
+    position: absolute;
+    font-family: 'Open Sans';
+    top: 100px;
+    left: 20px;
+    line-height: 32px;
+    height: 50%;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.card1 h3 {
+    position: absolute;
+    top: 175px;
+    left: 90px;
+    font-size: 30px;
+}
+
+.card1 img {
+    position: absolute;
+    border-radius: 50%;
+    width: 30%;
+    top: -40px;
+    left: 300px;
+   border: 1px solid black;
+}
+
+
+.card1 a img {
+    width: 30%;
+    height: 15%;
+    top: 210px;
+    left: 260px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+.icon {
+
+    padding-left: 30px;
+    padding-top: 200px;
+    color: #FFB800;
+    font-size: 50px;
+
+}
+
+
+
+.card2 {
+    left: 550px;
+    top: 1000px;
+    width: 26%;
+    height: 35%;
+    display: flex;
+    position: absolute;
+    background: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+}
+
+.card2 h1 {
+    position: absolute;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+    height: 50%
+
+}
+
+.card2 p {
+    position: absolute;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    top: 60px;
+    left: 20px;
+    width: 120px;
+    height: 50%;
+}
+
+.card2 h2 {
+    position: absolute;
+    font-family: 'Open Sans';
+    top: 100px;
+    left: 20px;
+    line-height: 32px;
+    height: 50%;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.card2 h3 {
+    position: absolute;
+    top: 175px;
+    left: 90px;
+    font-size: 30px;
+}
+
+
+
+.card2 img {
+    position: absolute;
+    border-radius: 50%;
+    width: 30%;
+    top: -40px;
+    left: 300px;
+   border: 1px solid black;
+
+}
+
+.card2 a img {
+    width: 30%;
+    height: 15%;
+    top: 210px;
+    left: 260px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+.icon2 {
+    padding-left: 30px;
+    padding-top: 200px;
+    color: #FFB800;
+    font-size: 50px;
+}
+
+.card3 {
+    left: 1000px;
+    top: 1000px;
+    width: 26%;
+    height: 35%;
+    display: flex;
+    position: absolute;
+    background: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+}
+
+.card3 h1 {
+    position: absolute;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+    height: 50%
+
+}
+
+.card3 p {
+    position: absolute;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    top: 60px;
+    left: 20px;
+    width: 180px;
+    height: 50%;
+}
+
+.card3 h2 {
+    position: absolute;
+    font-family: 'Open Sans';
+    top: 100px;
+    left: 20px;
+    line-height: 32px;
+    height: 50%;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.card3 h3 {
+    position: absolute;
+    top: 175px;
+    left: 90px;
+    font-size: 30px;
+}
+
+.card3 img {
+    position: absolute;
+    border-radius: 50%;
+    width: 30%;
+    top: -40px;
+    left: 300px;
+   border: 1px solid black;
+}
+
+.card3 a img {
+    width: 30%;
+    height: 15%;
+    top: 210px;
+    left: 260px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+
+.icon3 {
+    padding-left: 30px;
+    padding-top: 200px;
+    color: #FFB800;
+    font-size: 50px;
+
+}
+
+
+.card4 {
+    left: 100px;
+    top: 1380px;
+    width: 26%;
+    height: 35%;
+    display: flex;
+    position: absolute;
+    background: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+}
+
+.card4 h1 {
+    position: absolute;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+    height: 50%
+
+}
+
+.card4 p {
+    position: absolute;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    top: 60px;
+    left: 20px;
+    width: 180px;
+    height: 50%;
+}
+
+.card4 h2 {
+    position: absolute;
+    font-family: 'Open Sans';
+    top: 100px;
+    left: 20px;
+    line-height: 32px;
+    height: 50%;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.card4 h3 {
+    position: absolute;
+    top: 175px;
+    left: 90px;
+    font-size: 30px;
+}
+
+.card4 img {
+    position: absolute;
+    border-radius: 50%;
+    width: 30%;
+    top: -40px;
+    left: 300px;
+   border: 1px solid black;
+}
+
+.card4 a img {
+    width: 30%;
+    height: 15%;
+    top: 210px;
+    left: 260px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+.icon4 {
+    padding-left: 30px;
+    padding-top: 200px;
+    color: #FFB800;
+    font-size: 50px;
+
+}
+
+
+.card5 {
+    left: 550px;
+    top: 1380px;
+    width: 26%;
+    height: 35%;
+    display: flex;
+    position: absolute;
+    background: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+}
+
+.card5 h1 {
+    position: absolute;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+    height: 50%
+
+}
+
+.card5 p {
+    position: absolute;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    top: 60px;
+    left: 20px;
+    width: 180px;
+    height: 50%;
+}
+
+.card5 h2 {
+    position: absolute;
+    font-family: 'Open Sans';
+    top: 100px;
+    left: 20px;
+    line-height: 32px;
+    height: 50%;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.card5 h3 {
+    position: absolute;
+    top: 175px;
+    left: 90px;
+    font-size: 30px;
+}
+
+.card5 img {
+    position: absolute;
+    border-radius: 50%;
+    width: 30%;
+    top: -40px;
+    left: 300px;
+   border: 1px solid black;
+}
+
+.card5 a img {
+    width: 30%;
+    height: 15%;
+    top: 210px;
+    left: 260px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+.icon5 {
+    padding-left: 30px;
+    padding-top: 200px;
+    color: #FFB800;
+    font-size: 50px;
+
+}
+
+.card6 {
+    left: 1000px;
+    top: 1380px;
+    width: 26%;
+    height: 35%;
+    display: flex;
+    position: absolute;
+    background: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+}
+
+.card6 h1 {
+    position: absolute;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+    height: 50%
+
+}
+
+.card6 p {
+    position: absolute;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    top: 60px;
+    left: 20px;
+    width: 180px;
+    height: 50%;
+}
+
+.card6 h2 {
+    position: absolute;
+    font-family: 'Open Sans';
+    top: 100px;
+    left: 20px;
+    line-height: 32px;
+    height: 50%;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.card6 h3 {
+    position: absolute;
+    top: 175px;
+    left: 90px;
+    font-size: 30px;
+}
+
+.card6 img {
+    position: absolute;
+    border-radius: 50%;
+    width: 30%;
+    top: -40px;
+    left: 300px;
+   border: 1px solid black;
+}
+
+.card6 a img {
+    width: 30%;
+    height: 15%;
+    top: 210px;
+    left: 260px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+.icon6 {
+    padding-left: 30px;
+    padding-top: 200px;
+    color: #FFB800;
+    font-size: 50px;
+
+}
+
+.card7 {
+    left: 100px;
+    top: 1760px;
+    width: 26%;
+    height: 35%;
+    display: flex;
+    position: absolute;
+    background: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+}
+
+.card7 h1 {
+    position: absolute;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+    height: 50%
+
+}
+
+.card7 p {
+    position: absolute;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    top: 60px;
+    left: 20px;
+    width: 180px;
+    height: 50%;
+}
+
+.card7 h2 {
+    position: absolute;
+    font-family: 'Open Sans';
+    top: 100px;
+    left: 20px;
+    line-height: 32px;
+    height: 50%;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.card7 h3 {
+    position: absolute;
+    top: 175px;
+    left: 90px;
+    font-size: 30px;
+}
+
+.card7 img {
+    position: absolute;
+    border-radius: 50%;
+    width: 30%;
+    top: -40px;
+    left: 300px;
+   border: 1px solid black;
+}
+
+.card7 a img {
+    width: 30%;
+    height: 15%;
+    top: 210px;
+    left: 260px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+.icon7 {
+    padding-left: 30px;
+    padding-top: 200px;
+    color: #FFB800;
+    font-size: 50px;
+
+}
+
+
+.card8 {
+    left: 550px;
+    top: 1760px;
+    width: 26%;
+    height: 35%;
+    display: flex;
+    position: absolute;
+    background: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+}
+
+.card8 h1 {
+    position: absolute;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+    height: 50%
+
+}
+
+.card8 p {
+    position: absolute;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    top: 60px;
+    left: 20px;
+    width: 180px;
+    height: 50%;
+}
+
+.card8 h2 {
+    position: absolute;
+    font-family: 'Open Sans';
+    top: 100px;
+    left: 20px;
+    line-height: 32px;
+    height: 50%;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.card8 h3 {
+    position: absolute;
+    top: 175px;
+    left: 90px;
+    font-size: 30px;
+}
+
+.card8 img {
+    position: absolute;
+    border-radius: 50%;
+    width: 30%;
+    top: -40px;
+    left: 300px;
+   border: 1px solid black;
+}
+
+.card8 a img {
+    width: 30%;
+    height: 15%;
+    top: 210px;
+    left: 260px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+.icon8 {
+    padding-left: 30px;
+    padding-top: 200px;
+    color: #FFB800;
+    font-size: 50px;
+
+}
+
+.card9 {
+    left: 1000px;
+    top: 1760px;
+    width: 26%;
+    height: 35%;
+    display: flex;
+    position: absolute;
+    background: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+}
+
+.card9 h1 {
+    position: absolute;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Open Sans';
+    height: 50%
+
+}
+
+.card9 p {
+    position: absolute;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    top: 60px;
+    left: 20px;
+    width: 180px;
+    height: 50%;
+}
+
+.card9 h2 {
+    position: absolute;
+    font-family: 'Open Sans';
+    top: 100px;
+    left: 20px;
+    line-height: 32px;
+    height: 50%;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.card9 h3 {
+    position: absolute;
+    top: 175px;
+    left: 90px;
+    font-size: 30px;
+}
+
+.card9 img {
+    position: absolute;
+    border-radius: 50%;
+    width: 30%;
+    top: -40px;
+    left: 300px;
+   border: 1px solid black;
+}
+
+.card9 a img {
+    width: 30%;
+    height: 15%;
+    top: 210px;
+    left: 260px;
+    border-radius: 0px;
+    border-style: none;
+}
+
+.icon9 {
+    padding-left: 30px;
+    padding-top: 200px;
+    color: #FFB800;
+    font-size: 50px;
+
+}
+
+.verMore {
+    display: flex;
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25), inset 0px 1px 1px rgba(0, 0, 0, 0.25);
+    height: 3%;
+    top: 1600px;
+}
+
+.verMore p {
+    padding-left: 720px;
+    font-family: 'Open Sans';
+    color: #012169;
+    font-style: normal;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 500px) {
+    .h2Services {
+        top: 280px;
+        font-size: 20px;
+        width: 264px;
+        left: 60px;
+    }
+
+    .card1 {width: 362px;
+        height: 200px;
+            top: 400px;
+        left: 60px;
+    }
+
+            .card1 p {
+                
+                font-size: 14px;
+                top: 30px;
+            }
+
+            .card1 h1 {
+                font-size: 16px;
+            }
+
+            .card1 h2 {
+                font-size: 14px;
+                top: 65px;
+            }
+
+            .card1 h3 {
+                
+                font-size: 18px;
+                top: 135px;
+                left: 70px;
+            }
+
+            .card1 img {
+                left: 290px;
+                top: -30px;
+                width: 100px;
+            }
+            
+            .card1 a img {
+                width: 100px;
+                height: 35px;
+                top: 155px;
+                left: 245px;
+            }
+            .icon {
+                font-size: 32px;
+                padding-top: 150px;
+            }
+}
+

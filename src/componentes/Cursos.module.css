@@ -1,0 +1,285 @@
+
+
+  .ImgCursos{
+ width: 100%;    
+ padding-top: 20px; 
+    
+  }
+
+  .divcursos {
+    height: 100%;
+    
+  }
+
+  .card1 {
+    position: absolute;
+width: 35%;
+height: 50%;
+left: 140px;
+top: 880px;
+
+background: #F9F9F9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+  }
+
+  .card1 h1 {
+    padding-left: 10px;
+    font-size: 20px;
+    color: #012169;
+    position: absolute;
+    padding-top: 60px;
+    font-family: 'Open Sans';
+  }
+
+  .card1 h2 {
+    padding-left: 10px;
+    font-size: 18px;
+    margin-top: 110px;
+    position: absolute;
+    font-family: 'Open Sans';
+  }
+
+.card1 p {
+  font-size: 17px;
+  padding-top: 130px;
+  padding-left: 10px;
+  position: absolute;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  width: 90%;
+}
+
+.card1 img {
+  width: 16%;
+  margin-left: 380px;
+  margin-top: 40px;
+  position: absolute;
+}
+
+.card1 a img {
+  
+  width: 35%;
+  height: 16%;
+  left: -60px;
+  top: 250px;
+  
+}
+
+  .cursosdisp {
+    position: absolute;
+width: 30%;
+height: 20%;
+top: 770px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 33px;
+line-height: 76px;
+left: 97px;
+
+color: #11234D;
+  }
+
+  
+  .card2 {
+    position: absolute;
+width: 35%;
+height: 50%;
+left: 830px;
+top: 880px;
+
+background: #F9F9F9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+  }
+
+  .card2 h1 {
+    padding-left: 10px;
+    font-size: 20px;
+    color: #012169;
+    position: absolute;
+    padding-top: 60px;
+    font-family: 'Open Sans';
+  }
+
+  .card2 h2 {
+    padding-left: 10px;
+    font-size: 18px;
+    margin-top: 110px;
+    position: absolute;
+    font-family: 'Open Sans';
+  }
+
+.card2 p {
+  font-size: 17px;
+  padding-top: 130px;
+  padding-left: 10px;
+  position: absolute;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  width: 90%;
+}
+
+.card2 img {
+  width: 16%;
+  margin-left: 380px;
+  margin-top: 40px;
+  position:absolute;
+}
+
+.card2 a img {
+  
+  width: 35%;
+  height: 16%;
+  left: -60px;
+  top: 250px;
+  
+}
+
+.card3 {
+  position: absolute;
+  width: 35%;
+  height: 50%;
+  left: 140px;
+top: 1380px;
+
+background: #F9F9F9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+}
+
+.card3 h1 {
+  padding-left: 10px;
+  font-size: 20px;
+  color: #012169;
+  position: absolute;
+  padding-top: 60px;
+  font-family: 'Open Sans';
+}
+
+.card3 h2 {
+  padding-left: 10px;
+  font-size: 18px;
+  margin-top: 110px;
+  position: absolute;
+  font-family: 'Open Sans';
+}
+
+.card3 p {
+font-size: 17px;
+padding-top: 130px;
+padding-left: 10px;
+position: absolute;
+font-family: 'Open Sans';
+font-style: normal;
+  font-weight: 600;
+  width: 90%
+}
+
+.card3 img {
+width: 16%;
+margin-left: 380px;
+margin-top: 40px;
+position:absolute;
+}
+
+.card3 a img {
+  
+width: 35%;
+height: 16%;
+left: -60px;
+top: 250px;
+
+}
+
+.card4 {
+position: absolute;
+width: 35%;
+height: 50%;
+left: 830px;  
+top: 1380px;
+
+background: #F9F9F9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+}
+
+.card4 h1 {
+padding-left: 10px;
+font-size: 20px;
+color: #012169;
+position: absolute;
+padding-top: 60px;
+font-family: 'Open Sans';
+}
+
+.card4 h2 {
+padding-left: 10px;
+font-size: 18px;
+margin-top: 110px;
+position: absolute;
+font-family: 'Open Sans';
+}
+
+.card4 p {
+font-size: 17px;
+padding-top: 130px;
+padding-left: 10px;
+position: absolute;
+font-family: 'Open Sans';
+font-style: normal;
+  font-weight: 600;
+  width: 90%
+}
+
+.card4 img {
+width: 16%;
+margin-left: 380px;
+margin-top: 40px;
+position:absolute;
+}
+
+.card4 a img {
+  
+width: 35%;
+height: 16%;
+left: -60px;
+top: 250px;
+
+}
+
+.Search {
+position: absolute;
+width: 40%;
+height: 9%;
+left: 750px;
+top: 660px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+border-style: none;
+padding-left: 15px;
+font-size: 20px;
+}
+
+.verMais {
+display: flex;
+position: relative;
+background: #FFFFFF;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25), inset 0px 1px 1px rgba(0, 0, 0, 0.25);
+height: 3%;
+top: 1600px;
+}
+
+.verMais p {
+padding-left: 720px;
+font-family: 'Open Sans';
+color: #012169;
+font-style: normal;
+font-weight: 600;
+cursor: pointer;
+}
